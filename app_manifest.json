@@ -1,0 +1,13 @@
+{
+  "SchemaVersion": 1,
+  "Name": "main",
+  "ComponentId": "67eb7cf7-cdc6-49f5-98ce-3c04abcee032",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "Gpio": [],
+    "Pwm": [
+      "$AVNET_MT3620_SK_PWM_CONTROLLER2"
+    ]
+  }
+}
